@@ -32,7 +32,7 @@ Mirror is a high-performance, easy-to-use networking solution built specifically
 
 - ✅ Works with modern Unity versions
 
- -✅ Supports dedicated servers, P2P, and relay servers
+ - ✅ Supports dedicated servers, P2P, and relay servers
 
  # 🔹 Core Concepts in Mirror
 
